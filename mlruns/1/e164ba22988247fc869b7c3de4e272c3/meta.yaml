@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pierre/IA/PROJET7/mlruns/1/e164ba22988247fc869b7c3de4e272c3/artifacts
+end_time: 1687185494158
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e164ba22988247fc869b7c3de4e272c3
+run_name: SVM
+run_uuid: e164ba22988247fc869b7c3de4e272c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687185491713
+status: 3
+tags: []
+user_id: pierre

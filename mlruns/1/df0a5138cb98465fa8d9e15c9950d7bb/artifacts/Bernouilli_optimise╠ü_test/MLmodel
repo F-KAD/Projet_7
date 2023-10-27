@@ -1,0 +1,17 @@
+artifact_path: "Bernouilli_optimis\xE9_test"
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 1.30.1
+model_uuid: 50c134c960f14eddb4ade1f0fb0150a4
+run_id: df0a5138cb98465fa8d9e15c9950d7bb
+utc_time_created: '2023-06-19 14:38:24.749647'

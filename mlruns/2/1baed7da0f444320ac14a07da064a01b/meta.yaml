@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pierre/IA/PROJET7/mlruns/2/1baed7da0f444320ac14a07da064a01b/artifacts
+end_time: 1687186825468
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1baed7da0f444320ac14a07da064a01b
+run_name: LSTM_W2V
+run_uuid: 1baed7da0f444320ac14a07da064a01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687186363196
+status: 3
+tags: []
+user_id: pierre

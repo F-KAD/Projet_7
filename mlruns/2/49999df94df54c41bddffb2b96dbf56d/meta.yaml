@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pierre/IA/PROJET7/mlruns/2/49999df94df54c41bddffb2b96dbf56d/artifacts
+end_time: 1687185520412
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 49999df94df54c41bddffb2b96dbf56d
+run_name: Dense_Baseline
+run_uuid: 49999df94df54c41bddffb2b96dbf56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687185512523
+status: 3
+tags: []
+user_id: pierre

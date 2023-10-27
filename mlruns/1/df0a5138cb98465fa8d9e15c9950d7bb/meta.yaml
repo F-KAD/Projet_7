@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pierre/IA/PROJET7/mlruns/1/df0a5138cb98465fa8d9e15c9950d7bb/artifacts
+end_time: 1687185507054
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df0a5138cb98465fa8d9e15c9950d7bb
+run_name: Bernouilli_optimisé_test
+run_uuid: df0a5138cb98465fa8d9e15c9950d7bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687185504720
+status: 3
+tags: []
+user_id: pierre

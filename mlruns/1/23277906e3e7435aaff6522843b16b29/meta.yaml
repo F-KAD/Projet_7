@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pierre/IA/PROJET7/mlruns/1/23277906e3e7435aaff6522843b16b29/artifacts
+end_time: 1687185491701
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23277906e3e7435aaff6522843b16b29
+run_name: Dummy
+run_uuid: 23277906e3e7435aaff6522843b16b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687185488886
+status: 3
+tags: []
+user_id: pierre

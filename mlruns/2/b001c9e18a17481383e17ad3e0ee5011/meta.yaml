@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pierre/IA/PROJET7/mlruns/2/b001c9e18a17481383e17ad3e0ee5011/artifacts
+end_time: 1687186928263
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b001c9e18a17481383e17ad3e0ee5011
+run_name: LSTM_Glove
+run_uuid: b001c9e18a17481383e17ad3e0ee5011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687186874862
+status: 3
+tags: []
+user_id: pierre
